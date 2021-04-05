@@ -1,4 +1,4 @@
-# rcode
+# Qrcode
 create your own qrcode with python
 # Pre-requisites:
 1. Basic knowledge about Python
